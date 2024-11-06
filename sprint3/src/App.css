@@ -1,0 +1,18 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+body {
+	background-color: #0c3661;
+	color: #ffd700;
+}
+h1 {
+	color: #ffd700;
+	text-align: center;
+}
+h2 {
+	color: #ffd700;
+}
