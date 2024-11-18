@@ -1,0 +1,17 @@
+* {
+	text-align: left;
+}
+.summary {
+	width: 80%;
+	margin: 0 10%;
+}
+p,
+ul {
+	margin-left: 10%;
+}
+img {
+	max-width: 80%;
+}
+.listLead {
+	font-weight: bold;
+}
